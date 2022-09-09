@@ -1,11 +1,12 @@
 import './App.css';
-import WebSocket from './webSocket';
+import WebSock from './webSocket';
+
 
 
 function App() {
   return (
     <div >
-    <WebSocket />
+    <WebSock />
     </div>
   );
 }
